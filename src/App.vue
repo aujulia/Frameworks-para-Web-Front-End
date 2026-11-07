@@ -40,7 +40,7 @@ export default {
   <div class="container">
     <header>
       <div>
-        <h1>Livraria Jurídica EAD</h1>
+        <h1>Livraria Jurídica</h1>
         <p>Livros de Direito para começar a estudar</p>
       </div>
       <div class="carrinho" aria-live="polite">
