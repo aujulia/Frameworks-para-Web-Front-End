@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420" viewBox="0 0 320 420" role="img" aria-label="Capa ilustrativa de Direito Civil para Iniciantes">
+ <rect width="320" height="420" rx="8" fill="#6b4e4a"/>
+ <rect x="18" y="18" width="284" height="384" rx="4" stroke="#f7dfbe" fill="none" stroke-opacity=".6" stroke-width="2"/>
+ <path d="M40 66H280" stroke="#f7dfbe" stroke-opacity=".65" stroke-width="2"/>
+ <text x="160" y="48" text-anchor="middle" font-family="Arial" font-size="15" fill="#f7dfbe" letter-spacing="1">LIVRARIA JURÍDICA</text>
+ <g stroke="#f7dfbe" fill="none" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M160 122V270 M104 149H216 M160 119L145 134 M160 119L175 134"/>
+   <path d="M104 149L80 203L128 203Z M216 149L192 203L240 203Z" stroke-width="4"/>
+   <path d="M78 205Q104 231 130 205 M190 205Q216 231 242 205" stroke-width="5"/>
+   <path d="M137 272H183 M123 284H197"/>
+ </g>
+ <text x="160" y="326" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold" fill="white">DIREITO CIVIL</text>
+ <text x="160" y="355" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold" fill="white">PARA INICIANTES</text>
+ <text x="160" y="382" text-anchor="middle" font-family="Arial" font-size="12" fill="#f7dfbe">LIVRO FICTÍCIO • ATIVIDADE ESCOLAR</text>
+</svg>
